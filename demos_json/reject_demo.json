@@ -1,0 +1,12 @@
+{
+    "proposal_id": "reject-001",
+    "values": {
+      "list_price": 10000,
+      "discount_pct": 60,
+      "cost": 7000,
+      "segment": "SMB",
+      "cashflow_90d": 1000,
+      "max_discount_by_segment": 30
+    }
+  }
+  

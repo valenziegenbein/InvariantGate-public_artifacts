@@ -1,0 +1,10 @@
+{
+    "proposal_id": "demo-freeze-001",
+    "values": {
+      "list_price": 10000,
+      "discount_pct": 10,
+      "cost": 5000,
+      "segment": "SMB",
+      "max_discount_by_segment": 30
+    }
+  }

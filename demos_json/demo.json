@@ -1,0 +1,11 @@
+{
+  "proposal_id": "demo-001",
+  "values": {
+    "list_price": 10000,
+    "discount_pct": 10,
+    "cost": 5000,
+    "segment": "SMB",
+    "cashflow_90d": 3000,
+    "max_discount_by_segment": 30
+  }
+}
